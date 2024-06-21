@@ -1,0 +1,28 @@
+{
+  "sites": [
+    {
+      "name": "影视仓",
+      "url": "https://raw.liucn.cc/box/m.json"
+    },
+    {
+      "name": "影视仓备份",
+      "url": "https://agit.ai/liucn/box/raw/branch/main/m.json"
+    },
+    {
+      "name": "快看影视",
+      "url": "https://raw.githubusercontent.com/FreeDTV/FreeD/master/tvbox/kuaikan.json"
+    },
+    {
+      "name": "酷云七七",
+      "url": "https://raw.githubusercontent.com/FreeDTV/FreeD/master/tvbox/kuyun.json"
+    },
+    {
+      "name": "乐猪影视",
+      "url": "https://raw.githubusercontent.com/FreeDTV/FreeD/master/tvbox/lezhu.json"
+    },
+    {
+      "name": "小苹果",
+      "url": "https://raw.liucn.cc/box/xiaopingguo.json"
+    }
+  ]
+}
